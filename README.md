@@ -12,3 +12,4 @@ accelarometer make use of ADC
 I am sending the accelarometer data + MSP430 internal temprature + an continously incrementing varable in transmitter.
 and the same is receiving on the other end.
 The code is completely working
+________________________________________________________________________________________________________________
